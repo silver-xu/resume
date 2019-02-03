@@ -31,7 +31,7 @@ I kept myself ready for the latest and greatest technologies to suit better in t
 | Asp.Net and Asp.Net Core | 9.5 | 9 |
 | ReactJS, Redux, Saga and GraphQL | 2 | 8 |
 | Microservice Design and Implementation | 4 | 8 |
-| AWS / Lambda / Cloudformation  | 1 | 7 |
+| AWS / Lambda / Cloudformation / Devops  | 1 | 7 |
 | Docker | 2 | 6 |
 
 ## Career History
