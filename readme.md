@@ -2,6 +2,10 @@
 
 *Email: me@silverxu.com*
 
+*Online Resume: (https://github.com/silver-xu/resume)*
+
+*Phone Number: upon request*
+
 ## Index
 
 * [Summary](#Summary)
